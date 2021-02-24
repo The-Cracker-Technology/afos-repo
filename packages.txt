@@ -1,1 +1,1 @@
-nmap:7.91:Advanced Network Mapper:Informathin Gathering, Scanning:github.com/The-Cracker-Technology/helloafos
+nmap:7.91:Advanced Network Mapper:Informathin Gathering, Scanning:github.com/The-Cracker-Technology/nmap
