@@ -4,3 +4,4 @@ john:1.9.0.1:Advanced Offline Password Cracker:Password Hacking:github.com/The-C
 thc-ipv6:3.8:IPv6 attack toolkit:Network Hacking:github.com/The-Cracker-Technology/thc-ipv6
 metasploit-framework:6.0.33.1:Advanced Exploitation Framework:Exploitation:github.com/The-Cracker-Technology/metasploit-framework
 afl-fuzz:2.57.2:Security Oriented Fuzzer:Fuzzing, Exploitation:github.com/The-Cracker-Technology/afl-fuzzer 
+aircrack-ng:1.6.0.1:WiFi security auditing tools suite:Wireless:github.com/The-Cracker-Technology/aircrack-ng
