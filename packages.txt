@@ -2,3 +2,4 @@ nmap:7.91:Advanced Network Mapper:Information Gathering, Scanning:github.com/The
 0d1n:3.4:High performance Web Hacking tool:Web Site Hacking, Fuzzing:github.com/The-Cracker-technology/0d1n
 john:1.9.0.1:Advanced Offline Password Cracker:Password Hacking:github.com/The-Cracker-Technology/john
 thc-ipv6:3.8:IPv6 attack toolkit:Network Hacking:github.com/The-Cracker-Technology/thc-ipv6
+metasploit-framework:6.0.33.1:Advanced Exploitation Framework:Exploitation:github.com/The-Cracker-Technology/metasploit-framework
