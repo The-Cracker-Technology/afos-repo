@@ -1,1 +1,2 @@
 nmap:7.91:Advanced Network Mapper:Information Gathering, Scanning:github.com/The-Cracker-Technology/nmap
+0d1n:3.4:High performance Web Hacking tool:Web Site Hacking, Fuzzing:github.com/The-Cracker-technology/0d1n
