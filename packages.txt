@@ -5,3 +5,4 @@ thc-ipv6:3.8:IPv6 attack toolkit:Network Hacking:github.com/The-Cracker-Technolo
 metasploit-framework:6.0.33.1:Advanced Exploitation Framework:Exploitation:github.com/The-Cracker-Technology/metasploit-framework
 afl-fuzz:2.57.2:Security Oriented Fuzzer:Fuzzing, Exploitation:github.com/The-Cracker-Technology/afl-fuzzer 
 aircrack-ng:1.6.0.1:WiFi security auditing tools suite:Wireless:github.com/The-Cracker-Technology/aircrack-ng
+amass:3.11.8:In-depth Attack Surface Mapping and Asset Discovery:Information Gathering:github.com/The-Cracker-Technology/amass
