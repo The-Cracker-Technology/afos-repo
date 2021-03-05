@@ -6,3 +6,4 @@ metasploit-framework:6.0.33.1:Advanced Exploitation Framework:Exploitation:githu
 afl-fuzz:2.57.2:Security Oriented Fuzzer:Fuzzing, Exploitation:github.com/The-Cracker-Technology/afl-fuzzer 
 aircrack-ng:1.6.0.1:WiFi security auditing tools suite:Wireless:github.com/The-Cracker-Technology/aircrack-ng
 amass:3.11.8:In-depth Attack Surface Mapping and Asset Discovery:Information Gathering:github.com/The-Cracker-Technology/amass
+CANToolz:3.7.0:Black-box CAN network analysis framework:Exploitation:github.com/The-Cracker-Technology/CANToolz
