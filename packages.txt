@@ -11,4 +11,5 @@ ATSCAN:17.0.1:Advanced dork Search & Mass Exploit Scanner:Exploitation, Informat
 AutoRDPwn:5.1:The Shadow Attack Framework:Exploitation:github.com/The-Cracker-Technology/AutoRDPwn
 bettercap:2.29.1:The Swiss Army knife for 802.11, BLE and Ethernet networks attacks:Network Hacking, Exploitation:github.com/The-Cracker-Technology/bettercap
 bing-ip2hosts:1.0.4:Bing.com web scraper that discovers websites by IP address:Information Gathering, Web Site Hacking:github.com/The-Cracker-Technology/bing-ip2hosts
-binwalk:2.2.1: Firmware Analysis Tool:Exploitation:github.com/The-Cracker-Technology/binwalk
+binwalk:2.2.1:Firmware Analysis Tool:Exploitation:github.com/The-Cracker-Technology/binwalk
+bopscrk:2.3.1:Smart and powerful wordlists:Password Hacking:github.com/The-Cracker-Technology/bopscrk
