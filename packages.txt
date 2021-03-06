@@ -15,3 +15,4 @@ binwalk:2.2.1:Firmware Analysis Tool:Exploitation:github.com/The-Cracker-Technol
 bopscrk:2.3.1:Smart and powerful wordlists:Password Hacking:github.com/The-Cracker-Technology/bopscrk
 brakeman:5.0.0:Security vulnerability scanner for Ruby on Rails:Exploitation:github.com/The-Cracker-Technology/brakeman
 bully:1.4.0:Reaver better than reaver:Wireless Hacking:github.com/The-Cracker-Technology/bully
+cameradar:5.0.0:Hack RTSP videosurveillance cameras:Exploitation:github.com/The-Cracker-Technology/cameradar
