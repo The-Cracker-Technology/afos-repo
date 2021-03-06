@@ -17,3 +17,4 @@ brakeman:5.0.0:Security vulnerability scanner for Ruby on Rails:Exploitation:git
 bully:1.4.0:Reaver better than reaver:Wireless Hacking:github.com/The-Cracker-Technology/bully
 cameradar:5.0.0:Hack RTSP videosurveillance cameras:Exploitation:github.com/The-Cracker-Technology/cameradar
 CeWL:5.5.0:Custom Word List Generator:Password Hacking:github.com/The-Cracker-Technology/CeWL
+chimera:1.0.0:PowerShell obfuscation to bypass AMSI and AV:Exploitation:github.com/The-Cracker-Technology/Chimera
