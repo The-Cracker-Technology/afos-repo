@@ -4,7 +4,7 @@ john:1.9.0.1:Advanced Offline Password Cracker:Password Hacking:github.com/The-C
 thc-ipv6:3.8:IPv6 attack toolkit:Network Hacking:github.com/The-Cracker-Technology/thc-ipv6
 metasploit-framework:6.0.33.1:Advanced Exploitation Framework:Exploitation:github.com/The-Cracker-Technology/metasploit-framework
 afl-fuzz:2.57.2:Security Oriented Fuzzer:Fuzzing, Exploitation:github.com/The-Cracker-Technology/afl-fuzzer 
-aircrack-ng:1.6.0.1:WiFi security auditing tools suite:Wireless:github.com/The-Cracker-Technology/aircrack-ng
+aircrack-ng:1.6.0.1:WiFi security auditing tools suite:Wireless Hacking:github.com/The-Cracker-Technology/aircrack-ng
 amass:3.11.8:In-depth Attack Surface Mapping and Asset Discovery:Information Gathering:github.com/The-Cracker-Technology/amass
 CANToolz:3.7.0.2:Black-box CAN network analysis framework:Exploitation:github.com/The-Cracker-Technology/CANToolz
 ATSCAN:17.0.1:Advanced dork Search & Mass Exploit Scanner:Exploitation, Information Gathering:github.com/The-Cracker-Technology/ATSCAN
@@ -14,3 +14,4 @@ bing-ip2hosts:1.0.4:Bing.com web scraper that discovers websites by IP address:I
 binwalk:2.2.1:Firmware Analysis Tool:Exploitation:github.com/The-Cracker-Technology/binwalk
 bopscrk:2.3.1:Smart and powerful wordlists:Password Hacking:github.com/The-Cracker-Technology/bopscrk
 brakeman:5.0.0:Security vulnerability scanner for Ruby on Rails:Exploitation:github.com/The-Cracker-Technology/brakeman
+bully:1.4.0:Reaver better than reaver:Wireless Hacking:github.com/The-Cracker-Technology/bully
