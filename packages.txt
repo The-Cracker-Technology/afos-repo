@@ -20,3 +20,4 @@ CeWL:5.5.0:Custom Word List Generator:Password Hacking:github.com/The-Cracker-Te
 chimera:1.0.0:PowerShell obfuscation to bypass AMSI and AV:Exploitation:github.com/The-Cracker-Technology/Chimera
 chisel:1.7.6:A fast TCP/UDP tunnel over HTTP:Network Hacking:github.com/The-Cracker-Technology/chisel
 CloudFail:1.0.2:Expose CloudFlare network:Information Gathering:github.com/The-Cracker-Technology/CloudFail
+Cloudmare:2.0.11.06:Cloudflare, Sucuri, Incapsula real IP tracker:Information Gathering:github.com/The-Cracker-Technology/Cloudmare
