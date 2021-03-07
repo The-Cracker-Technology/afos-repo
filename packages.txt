@@ -22,3 +22,4 @@ chisel:1.7.6:A fast TCP/UDP tunnel over HTTP:Network Hacking:github.com/The-Crac
 CloudFail:1.0.2:Expose CloudFlare network:Information Gathering:github.com/The-Cracker-Technology/CloudFail
 Cloudmare:2.0.11.06:Cloudflare, Sucuri, Incapsula real IP tracker:Information Gathering:github.com/The-Cracker-Technology/Cloudmare
 cloudsploit:2.0.0.1:Cloud Security Posture Management (CSPM):Website Hacking, Exploitation:github.com/The-Cracker-Technology/cloudsploit
+CrackMapExec:5.1.1.1:A swiss army knife for pentesting networks:Exploitation, Network Hacking:github.com/The-Cracker-Technology/CrackMapExec
