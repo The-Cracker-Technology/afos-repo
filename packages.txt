@@ -24,3 +24,4 @@ Cloudmare:2.0.11.06:Cloudflare, Sucuri, Incapsula real IP tracker:Information Ga
 cloudsploit:2.0.0.1:Cloud Security Posture Management (CSPM):Web Site Hacking, Exploitation:github.com/The-Cracker-Technology/cloudsploit
 CrackMapExec:5.1.1.1:A swiss army knife for pentesting networks:Exploitation, Network Hacking:github.com/The-Cracker-Technology/CrackMapExec
 CMSeeK:1.1.3:CMS Detection and Exploitation suite:Web Site Hacking:github.com/The-Cracker-Technology/CMSeeK
+expliot:0.9.6:IoT/IIoT Security Testing and Exploitation framework:IoT/IIoT Hacking, Exploitation:github.com/The-Cracker-Technology/expliot
