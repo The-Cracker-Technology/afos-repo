@@ -28,3 +28,4 @@ expliot:0.9.6:IoT/IIoT Security Testing and Exploitation framework:IoT/IIoT Hack
 commix:3.2.77:All-in-One OS Command Injection Exploitation:Web Site Hacking, Exploitation:github.com/The-Cracker-Technology/commix
 cowpatty:4.8:WPA2-PSK Cracking:Wireless Hacking:github.com/The-Cracker-Technology/cowpatty
 crlfmap:0.0.1:Find HTTP Splitting vulnerabilities:Web Site Hacking:github.com/The-Cracker-Technology/crlfmap
+CryptoMobile:0.3.1:Cryptography for mobile networks:VOIP/3G/4G/UMTS/LTE:github.com/The-Cracker-Technology/CryptoMobile
