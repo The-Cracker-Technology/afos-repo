@@ -37,3 +37,4 @@ dnstracer:1.9.1:Trace DNS traffic:Information Gathering:github.com/The-Cracker-T
 dnstwist:20201228:Domain name permutation engine:Phishing:github.com/The-Cracker-Technology/dnstwist
 docem:1.3.1:Embed XXE and XSS payloads in docx,odt,pptx,etc...:Exploitation, Web Site Hacking:github.com/The-Cracker-Technology/docem
 thc-hydra:9.2.1.1:Advanced Password Brute-Forcer:Password Hacking:github.com/The-Cracker-technology/thc-hydra
+empire:3.7.2:PowerShell and Python 3 post-exploitation framework:Exploitation:github.com/The-Cracker-Technology/Empire
