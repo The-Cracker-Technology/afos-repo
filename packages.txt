@@ -42,3 +42,4 @@ eaphammer:1.13.5:Targeted evil twin attacks against WPA2-Enterprise networks:Wir
 enumiax:1.0.1:IAX protocol username enumerator:VOIP:github.com/The-Cracker-Technology/enumiax
 evilginx2:2.4.2:MITM Attack Framework for phishing credentials:Phishing:github.com/The-Cracker-Technology/evilginx2
 exe2hex:1.5.2:Inline file transfer using in-built Windows tools DEBUG.exe or PowerShell:Exploitation:github.com/The-Cracker-Technology/exe2hex
+fiesta:1.0.1:Side-channel attacks against HTTPS:Website Hacking:github.com/The-Cracker-Technology/fiesta
