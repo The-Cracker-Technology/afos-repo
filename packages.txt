@@ -47,3 +47,4 @@ fingerprinter:1.0.1:CMS/LMS/Library etc Versions Fingerprinter:Web Site Hacking:
 flasm:1.64.1:SWF Disassembler:Exploitation:github.com/The-Cracker-Technology/flasm
 gcrypt:3.2.1:Simple, secure and performance file encryption:General:github.com/The-Cracker-Technology/gcrypt
 getsploit:0.3.3:Search and downloading exploits:Exploitation:github.com/The-Cracker-Technology/getsploit
+gobuster:3.1.0:Directory/File, DNS and VHost busting:Web Site Hacking:github.com/The-Cracker-Technology/gobuster
