@@ -40,4 +40,4 @@ thc-hydra:9.2.1.1:Advanced Password Brute-Forcer:Password Hacking:github.com/The
 empire:3.7.2:PowerShell and Python 3 post-exploitation framework:Exploitation:github.com/The-Cracker-Technology/Empire
 eaphammer:1.13.5:Targeted evil twin attacks against WPA2-Enterprise networks:Wireless Hacking:github.com/The-Cracker-Technology/eaphammer
 enumiax:1.0.1:IAX protocol username enumerator:VOIP:github.com/The-Cracker-Technology/enumiax
-evilginx2:2.4.2:MITM Attack Framework for phishing credentials:github.com/The-Cracker-Technology/evilginx2
+evilginx2:2.4.2:MITM Attack Framework for phishing credentials:Phishing:github.com/The-Cracker-Technology/evilginx2
