@@ -45,3 +45,4 @@ exe2hex:1.5.2:Inline file transfer using in-built Windows tools DEBUG.exe or Pow
 fiesta:1.0.1:Side-channel attacks against HTTPS:Website Hacking:github.com/The-Cracker-Technology/fiesta
 fingerprinter:1.0.1:CMS/LMS/Library etc Versions Fingerprinter:Web Site Hacking:github.com/The-Cracker-Technology/Fingerprinter
 flasm:1.64.1:SWF Disassembler:Exploitation:github.com/The-Cracker-Technology/flasm
+gcrypt:3.2.1:Simple, secure and performance file encryption:General:github.com/The-Cracker-Technology/gcrypt
