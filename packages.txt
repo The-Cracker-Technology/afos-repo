@@ -50,3 +50,4 @@ getsploit:0.3.3:Search and downloading exploits:Exploitation:github.com/The-Crac
 gobuster:3.1.0:Directory/File, DNS and VHost busting:Web Site Hacking:github.com/The-Cracker-Technology/gobuster
 gophish:0.11.0:Open-Source Phishing Toolkit:Phishing:github.com/The-Cracker-Technology/gophish
 h8mail:2.5.5:Email OSINT & Password breach hunting:Information Gathering:github.com/The-Cracker-Technology/h8mail
+hcxtools:6.1.6:WiFi dump files to hashcat and John the Ripper formats:Wireless Hacking, Password Hacking:github.com/The-Cracker-Technology/hcxtools
