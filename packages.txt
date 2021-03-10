@@ -51,3 +51,4 @@ gobuster:3.1.0:Directory/File, DNS and VHost busting:Web Site Hacking:github.com
 gophish:0.11.0:Open-Source Phishing Toolkit:Phishing:github.com/The-Cracker-Technology/gophish
 h8mail:2.5.5:Email OSINT & Password breach hunting:Information Gathering:github.com/The-Cracker-Technology/h8mail
 hcxtools:6.1.6:WiFi dump files to hashcat and John the Ripper formats:Wireless Hacking, Password Hacking:github.com/The-Cracker-Technology/hcxtools
+mitmproxy:7.0.0.1:Burp Suite Killer:Web Site Hacking:github.com/The-Cracker-Technology/mitmproxy
