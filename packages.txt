@@ -56,3 +56,4 @@ httpx:1.0.3:Fast and multi-purpose HTTP toolkit:Web Site Hacking:github.com/The-
 ike-scan:1.9.4:The IKE Scanner:Scanning:github.com/The-Cracker-Technology/ike-scan
 impulse:1.1.1:Denial-of-service ToolKit:DoS/DDoS:github.com/The-Cracker-Technology/Impulse
 ipcalc:1.0.0:A modern IPv4/IPv6 ipcalc:Network Hacking:github.com/The-Cracker-Technology/ipcalc
+isaf:0.0.2:Industrial Security Auditing Framework:ICS/SCADA:github.com/The-Cracker-Technology/isaf
