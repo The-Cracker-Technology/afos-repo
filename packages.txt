@@ -68,3 +68,4 @@ hyperion:2.3.1:Runtime encrypter for 32/64 bit PEs:Exploitation:github.com/The-C
 cicspwn:1.1.1:Pentest a CICS Transaction servers on z/OS:Mainframes:github.com/The-Cracker-Technology/cicspwn
 maltego:4.2.15.13632:OSINT Graphical Tool:Information Gathering:github.com/The-Cracker-Technology/maltego
 fann:2.2.0.1:Fast Artificial Neural Network Library:NN, Exploitation:github.com/The-Cracker-Technology/fann
+maryam:1.5.0:Open-source Intelligence Framework:Information Gathering:github.com/The-Cracker-Technology/maryam
