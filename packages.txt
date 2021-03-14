@@ -65,3 +65,4 @@ kadimus:1.5.1:Tool to check and exploit lfi vulnerability:Web Site Hacking, Expl
 katana-ds:1.5.3:Tool For google Hacking:Information Gathering, Exploitation, Web Site Hacking:github.com/The-Cracker-Technology/Katana
 nullscan:1.0.1:Modular framework designed to chain and automate security tests:Scanning:github.com/The-Cracker-Technology/nullscan
 hyperion:2.3.1:Runtime encrypter for 32/64 bit PEs:Exploitation:github.com/The-Cracker-Technology/hyperion
+cicspwn:1.1.1:Pentest a CICS Transaction servers on z/OS:Mainframes:github.com/The-Cracker-Technology/cicspwn
