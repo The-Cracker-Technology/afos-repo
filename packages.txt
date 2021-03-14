@@ -59,3 +59,4 @@ ipcalc:1.0.0:A modern IPv4/IPv6 ipcalc:Network Hacking:github.com/The-Cracker-Te
 isaf:0.0.2:Industrial Security Auditing Framework:ICS/SCADA:github.com/The-Cracker-Technology/isaf
 jaeles:0.16.1:The Swiss Army knife for Web Application Testing:Web Site Hacking:github.com/The-Cracker-Technology/jaeles
 javascript-obfuscator:2.11.0:Powerful obfuscator for JavaScript and NodeJS:Expoitation, Web Site Hacking:github.com/The-Cracker-Technology/javascript-obfuscator
+jwtcracker:1.1.1:JWT brute force cracker:Web Site Hacking, Exploitation:github.com/The-Cracker-Technology/c-jwt-cracker
