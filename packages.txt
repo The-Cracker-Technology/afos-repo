@@ -61,3 +61,4 @@ jaeles:0.16.1:The Swiss Army knife for Web Application Testing:Web Site Hacking:
 javascript-obfuscator:2.11.0:Powerful obfuscator for JavaScript and NodeJS:Expoitation, Web Site Hacking:github.com/The-Cracker-Technology/javascript-obfuscator
 jwtcracker:1.1.1:JWT brute force cracker:Web Site Hacking, Exploitation:github.com/The-Cracker-Technology/c-jwt-cracker
 jwt_tool:2.2.2:Toolkit for testing, tweaking and cracking JSON Web Tokens:Web Site Hacking, Exploitation:github.com/The-Cracker-Technology/jwt_tool
+kadimus:1.5.1:Tool to check and exploit lfi vulnerability:Web Site Hacking, Exploitation:github.com/The-Cracker-Technology/kadimus
