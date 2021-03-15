@@ -75,3 +75,4 @@ modlishka:1.1.1:Reverse SSL/TLS Proxy:Phishing, Web Site Hacking:github.com/The-
 monsoon:1.0.1:Fast HTTP enumerator:Web Site Hacking:github.com/The-Cracker-Technology/monsoon 
 ncrack:0.8.1:Ncrack network authentication tool:Password Hacking:github.com/The-Cracker-Technology/ncrack
 nemesis:1.7.1:Network packet crafting and injection utility:Network Hacking:github.com/The-Cracker-Technology/nemesis
+nikto:2.1.6.1:Web server scanner:Web Site Hacking:github.com/The-Cracker-Technology/nikto
