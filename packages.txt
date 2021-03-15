@@ -72,3 +72,4 @@ maryam:1.5.0:Open-source Intelligence Framework:Information Gathering:github.com
 masscan:1.3.2:Massive port scanner:Scanning:github.com/The-Cracker-Technology/masscan
 micro:2.0.9.1.52:Modern and intuitive terminal-based text editor:Misc Tools:github.com/The-Cracker-Technology/micro
 modlishka:1.1.1:Reverse SSL/TLS Proxy:Phishing, Web Site Hacking:github.com/The-Cracker-Technology/Modlishka
+monsoon:1.0.1:Fast HTTP enumerator:Web Site Hacking:github.com/The-Cracker-Technology/monsoon 
