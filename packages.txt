@@ -74,3 +74,4 @@ micro:2.0.9.1.52:Modern and intuitive terminal-based text editor:Misc Tools:gith
 modlishka:1.1.1:Reverse SSL/TLS Proxy:Phishing, Web Site Hacking:github.com/The-Cracker-Technology/Modlishka
 monsoon:1.0.1:Fast HTTP enumerator:Web Site Hacking:github.com/The-Cracker-Technology/monsoon 
 ncrack:0.8.1:Ncrack network authentication tool:Password Hacking:github.com/The-Cracker-Technology/ncrack
+nemesis:1.7.1:Network packet crafting and injection utility;Network Hacking:github.com/The-Cracker-Technology/nemesis
