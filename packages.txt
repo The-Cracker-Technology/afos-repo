@@ -76,3 +76,4 @@ monsoon:1.0.1:Fast HTTP enumerator:Web Site Hacking:github.com/The-Cracker-Techn
 ncrack:0.8.1:Ncrack network authentication tool:Password Hacking:github.com/The-Cracker-Technology/ncrack
 nemesis:1.7.1:Network packet crafting and injection utility:Network Hacking:github.com/The-Cracker-Technology/nemesis
 nikto:2.1.6.1:Web server scanner:Web Site Hacking:github.com/The-Cracker-Technology/nikto
+nodexp:1.2.2:Server Side Javascript Injection tool to Exploit NodeJS:Exploitation, Web Site Hacking:github.com/The-Cracker-Technology/nodexp 
