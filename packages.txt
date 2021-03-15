@@ -78,3 +78,4 @@ nikto:2.1.6.1:Web server scanner:Web Site Hacking:github.com/The-Cracker-Technol
 nodexp:1.2.2:Server Side Javascript Injection tool to Exploit NodeJS:Exploitation, Web Site Hacking:github.com/The-Cracker-Technology/nodexp 
 ntlmrecon:0.4.2.1:Enumerate information from NTLM endpoints:Exploitation, Network Hacking:github.com/The-Cracker-Technology/ntlmrecon 
 nuclei:2.3.1.1:Advanced vulnerability scanner based on templates:Web Site Hacking, Scanning:github.com/The-Cracker-Technology/nuclei
+pacu:1.1.1:AWS exploitation framework:Exploitation, Web Site Hacking:github.com/The-Cracker-Technology/pacu
