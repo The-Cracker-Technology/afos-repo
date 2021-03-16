@@ -83,3 +83,4 @@ phpsploit:3.2.1:Advanced C2 framework for PHP:Web Site Hacking, Exploitation:git
 pocsuite:1.7.4:Remote vulnerability testing framework:Exploitation:github.com/The-Cracker-Technology/pocsuite3
 pwndrop:1.0.2:Self-deployable file hosting for Red Team:Exploitation:github.com/The-Cracker-Technology/pwndrop
 QRLJacker:2.1.2:Advanced Framework for Hijack QRCode based login systems:Exploitation:github.com/The-Cracker-Technology/QRLJacking
+fierce-python3:1.4.0.1:DNS reconnaissance tool for locating non-contiguous IP space:Information Gathering:github.com/The-Cracker-Technology/fierce-python3
