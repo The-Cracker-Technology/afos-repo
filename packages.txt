@@ -80,3 +80,4 @@ ntlmrecon:0.4.2.1:Enumerate information from NTLM endpoints:Exploitation, Networ
 nuclei:2.3.1.1:Advanced vulnerability scanner based on templates:Web Site Hacking, Scanning:github.com/The-Cracker-Technology/nuclei
 pacu:1.1.1:AWS exploitation framework:Exploitation, Web Site Hacking:github.com/The-Cracker-Technology/pacu
 phpsploit:3.2.1:Advanced C2 framework for PHP:Web Site Hacking, Exploitation:github.com/The-Cracker-Technology/phpsploit
+pocsuite:1.7.4:Remote vulnerability testing framework:Exploitation:github.com/The-Cracker-Technology/pocsuite3
