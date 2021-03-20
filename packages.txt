@@ -92,3 +92,4 @@ redsocks2:0.68.1:Transparent redirector of any TCP/UDP connection to proxy:Netwo
 responder:3.0.3.0.1:LLMNR, NBT-NS and MDNS poisoner:Network Hacking, Exploitation:github.com/The-Cracker-Technology/Responder
 routersploit:3.4.1.1:Exploitation Framework for Embedded Devices:Exploitation:github.com/The-Cracker-Technology/routersploit
 S3Scanner:1.0.0:Scan for open AWS S3 buckets and dump the contents:Scanning, Web Site Hacking:github.com/The-Cracker-Technology/S3Scanner
+sgn:2.0.0.1:Advanced Payload Encoder:Exploitation:github.com/The-Cracker-Technology/sgn
