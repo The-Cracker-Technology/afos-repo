@@ -94,3 +94,4 @@ routersploit:3.4.1.1:Exploitation Framework for Embedded Devices:Exploitation:gi
 S3Scanner:1.0.0:Scan for open AWS S3 buckets and dump the contents:Scanning, Web Site Hacking:github.com/The-Cracker-Technology/S3Scanner
 sgn:2.0.0.1:Advanced Payload Encoder:Exploitation:github.com/The-Cracker-Technology/sgn
 massdns:1.1.1:A high-performance DNS stub resolver:Information Gathering:github.com/The-Cracker-Technology/massdns
+shuffledns:1.0.4.1:Advanced subdomain enumerator:Information Gathering:github.com/The-Cracker-Technology/shuffledns
