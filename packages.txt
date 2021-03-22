@@ -105,3 +105,4 @@ smbmap:1.8.3:Handy SMB enumeration tool:Network Hacking:github.com/The-Cracker-T
 smod:1.0.4:Modbus Penetration Test:ICS/SCADA:github.com/The-Cracker-Technology/smod
 sqlmap:1.5.3.18:Automatic SQL injection and database takeover:Web Site Hacking:github.com/The-Cracker-Technology/sqlmap
 sslscan:2.0.8.1:Test SSL/TLS enabled services:Scanning:github.com/The-Cracker-Technology/sslscan
+theHarvester:3.2.3:E-mails, subdomains and names Harvester:Information Gathering:github.com/The-Cracker-Technology/theHarvester
