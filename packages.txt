@@ -101,3 +101,4 @@ sipvicious:0.3.2:Audit SIP based VoIP systems:VOIP:github.com/The-Cracker-Techno
 SiteBroker:8.1.1:WebSite Information Gathering:Information Gathering:github.com/The-Cracker-Technology/SiteBroker
 slowhttptest:1.8.3:Application Layer DoS attack:DoS/DDoS:github.com/The-Cracker-Technology/slowhttptest
 slowloris:0.2.2:Low bandwidth DoS Attack:DoS/DDoS:github.com/The-Cracker-Technology/slowloris
+smbmap:1.8.3:Handy SMB enumeration tool:Network Hacking:github.com/The-Cracker-Technology/smbmap
