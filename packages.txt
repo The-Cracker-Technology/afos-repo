@@ -102,3 +102,4 @@ SiteBroker:8.1.1:WebSite Information Gathering:Information Gathering:github.com/
 slowhttptest:1.8.3:Application Layer DoS attack:DoS/DDoS:github.com/The-Cracker-Technology/slowhttptest
 slowloris:0.2.2:Low bandwidth DoS Attack:DoS/DDoS:github.com/The-Cracker-Technology/slowloris
 smbmap:1.8.3:Handy SMB enumeration tool:Network Hacking:github.com/The-Cracker-Technology/smbmap
+smod:1.0.4:Modbus Penetration Test:ICS/SCADA:github.com/The-Cracker-Technology/smod
