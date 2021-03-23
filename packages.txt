@@ -111,4 +111,3 @@ udp2raw:20210323:Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP:Network Hacki
 urlcrazy:0.7.1.1:Generate and test domain typos and variations:Web Site Hacking:github.com/The-Cracker-Technology/urlcrazy
 wafw00f:2.1.0.1:Identify and fingerprint Web Application Firewall:Web Site Hacking:github.com/The-Cracker-Technology/wafw00f
 wapiti:3.0.4.1:The web-application vulnerability scanner:Web Site Hacking:github.com/The-Cracker-Technology/wapiti
-w3af:20210323:Web Application Attack and Audit Framework:Web Site Hacking:github.com/The-Cracker-Technology/w3af
