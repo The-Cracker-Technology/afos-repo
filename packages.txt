@@ -109,3 +109,4 @@ theHarvester:3.2.3:E-mails, subdomains and names Harvester:Information Gathering
 tld_scanner:1.1.1:Scan all possible TLDs for a given domain name:Information Gathering:github.com/The-Cracker-Technology/tld_scanner
 udp2raw:20210323:Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP:Network Hacking:github.com/The-Cracker-Technology/udp2raw-tunnel
 urlcrazy:0.7.1.1:Generate and test domain typos and variations:Web Site Hacking:github.com/The-Cracker-Technology/urlcrazy
+wafw00f:2.1.0.1:Identify and fingerprint Web Application Firewall:Web Site Hacking:github.com/The-Cracker-Technology/wafw00f
