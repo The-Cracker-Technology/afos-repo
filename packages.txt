@@ -107,3 +107,4 @@ sqlmap:1.5.3.18:Automatic SQL injection and database takeover:Web Site Hacking:g
 sslscan:2.0.8.1:Test SSL/TLS enabled services:Scanning:github.com/The-Cracker-Technology/sslscan
 theHarvester:3.2.3:E-mails, subdomains and names Harvester:Information Gathering:github.com/The-Cracker-Technology/theHarvester
 tld_scanner:1.1.1:Scan all possible TLDs for a given domain name:Information Gathering:github.com/The-Cracker-Technology/tld_scanner
+udp2raw:20210323:Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP:Network Hacking:github.com/The-Cracker-Technology/udp2raw-tunnel
