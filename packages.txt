@@ -113,3 +113,4 @@ wafw00f:2.1.0.1:Identify and fingerprint Web Application Firewall:Web Site Hacki
 wapiti:3.0.4.1:The web-application vulnerability scanner:Web Site Hacking:github.com/The-Cracker-Technology/wapiti
 wfuzz:3.1.0.1:Web application fuzzer:Web Site Hacking:github.com/The-Cracker-Technology/wfuzz
 whatweb:0.5.5:Next generation web scanner:Web Site Hacking:github.com/The-Cracker-Technology/WhatWeb
+wifitap:0.4.1:WiFi injection tool:Wireless Hacking:github.com/The-Cracker-Technology/wifitap
