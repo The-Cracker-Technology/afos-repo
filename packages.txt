@@ -114,3 +114,4 @@ wapiti:3.0.4.1:The web-application vulnerability scanner:Web Site Hacking:github
 wfuzz:3.1.0.1:Web application fuzzer:Web Site Hacking:github.com/The-Cracker-Technology/wfuzz
 whatweb:0.5.5:Next generation web scanner:Web Site Hacking:github.com/The-Cracker-Technology/WhatWeb
 wifitap:0.4.1:WiFi injection tool:Wireless Hacking:github.com/The-Cracker-Technology/wifitap
+wpscan:3.8.17:WordPress security scanner:Web Site Hacking:github.com/The-Cracker-Technology/wpscan
