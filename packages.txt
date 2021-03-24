@@ -116,3 +116,4 @@ whatweb:0.5.5:Next generation web scanner:Web Site Hacking:github.com/The-Cracke
 wifitap:0.4.1:WiFi injection tool:Wireless Hacking:github.com/The-Cracker-Technology/wifitap
 wpscan:3.8.17:WordPress security scanner:Web Site Hacking:github.com/The-Cracker-Technology/wpscan
 XSpear:1.4.1:XSS Scanning and Parameter analysis:Web Site Hacking:github.com/The-Cracker-Technology/XSpear
+xsser:1.8.4.1:Framework to detect, exploit and report XSS vulnerabilities:Web Site Hacking:github.com/The-Cracker-Technology/xsser
