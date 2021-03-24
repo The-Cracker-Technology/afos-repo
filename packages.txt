@@ -118,3 +118,4 @@ wpscan:3.8.17:WordPress security scanner:Web Site Hacking:github.com/The-Cracker
 XSpear:1.4.1:XSS Scanning and Parameter analysis:Web Site Hacking:github.com/The-Cracker-Technology/XSpear
 xsser:1.8.4.1:Framework to detect, exploit and report XSS vulnerabilities:Web Site Hacking:github.com/The-Cracker-Technology/xsser
 xss-loader:1.0.0:Xss Payload Generator:Web Site Hacking:github.com/The-Cracker-Technology/XSS-LOADER
+xxexploiter:0.1.8:Exploit XXE vulnerabilities:Web Site Hacking:github.com/The-Cracker-Technology/xxexploiter
