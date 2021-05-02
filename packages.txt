@@ -120,4 +120,4 @@ xsser:1.8.4.1:Framework to detect, exploit and report XSS vulnerabilities:Web Si
 xss-loader:1.0.0:Xss Payload Generator:Web Site Hacking:github.com/The-Cracker-Technology/XSS-LOADER
 xxexploiter:0.1.8:Exploit XXE vulnerabilities:Web Site Hacking:github.com/The-Cracker-Technology/xxexploiter
 xxeinjector:1.1.1:Automatic exploitation of XXE vulnerability:Web Site Hacking:github.com/The-Cracker-Technology/XXEinjector
-btproxy:0.2:Bluetooth Man in the Middle:Wireless Hacking:github.com/The-Crackertechnology/btproxy
+btproxy:0.2:Bluetooth Man in the Middle:Wireless Hacking:github.com/The-Cracker-Technology/btproxy
